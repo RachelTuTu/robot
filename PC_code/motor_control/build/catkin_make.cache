@@ -1,0 +1,2 @@
+baymax_motor
+-DCATKIN_DEVEL_PREFIX=/home/frank/Baymax/devel -DCMAKE_INSTALL_PREFIX=/home/frank/Baymax/install -G Unix Makefiles

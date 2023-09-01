@@ -1,0 +1,8 @@
+prefix=/home/frank/Baymax/devel
+
+Name: baymax_motor
+Description: Description of baymax_motor
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

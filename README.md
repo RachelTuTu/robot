@@ -13,7 +13,7 @@ We are excited to announce that our project has successfully completed its testi
 * **Educational Value:** We are committed to fostering learning and innovation among university students. This project aims to provide a hands-on learning experience that extends beyond the classroom.
 
 ## Get Started
-This project is for who interested in exploring the robot compitation or contributing to its development.
+This project is for who interested in exploring the robot competition or contributing to its development.
 
 We look forward to seeing how this platform will empower university students to excel in their robotics competitions. Feel free to explore the code, share your ideas, and join us on this educational journey!
 ## Project Structure
